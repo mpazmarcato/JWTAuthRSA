@@ -1,4 +1,4 @@
-# Geração de Chaves e Criação de Tokens
+# Geração de Chaves RSA e Criação de Tokens 
 No código cada usuário na rede recebe um par de chaves RSA exclusivo e um token JWT assinado com a chave privada correspondente.
 
 ## Características
